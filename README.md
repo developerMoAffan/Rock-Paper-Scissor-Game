@@ -10,12 +10,6 @@ You can run the game by simply opening the `index.html` file in any modern brows
 
 ---
 
-## 📸 Preview
-
-![Rock Paper Scissors Preview](preview.png) <!-- Add a screenshot named 'preview.png' in your repo if you want -->
-
----
-
 ## 🚀 Features
 
 - Select between **rock**, **paper**, and **scissors**
